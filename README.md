@@ -1,1 +1,1 @@
-# git-101-workshop
+# Git 101 Workshop - Spirit Animals!
